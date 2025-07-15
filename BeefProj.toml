@@ -1,0 +1,6 @@
+FileVersion = 1
+Dependencies = {corlib = "*", Beef-Net = "*"}
+
+[Project]
+Name = "Beef-Http-Server"
+StartupObject = "Beef_Http_Server.Program"
